@@ -1,6 +1,10 @@
-validate.js
+@rtz.dev/validate.js
 ===
-Validate.js provides a declarative way of validating javascript objects.
+This is a security-enhanced fork of [validate.js](https://github.com/ansman/validate.js) that provides a declarative way of validating javascript objects.
+
+### Security Improvements in this Fork
+- Fixed Regular Expression Denial of Service (ReDoS) vulnerability in the URL validator
+- Maintains full backward compatibility with the original library
 
 For documentation please see [validatejs.org/](http://validatejs.org/).
 

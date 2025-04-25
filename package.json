@@ -1,6 +1,6 @@
 {
-  "name": "validate.js",
-  "version": "0.13.1",
+  "name": "@rtz.dev/validate.js",
+  "version": "0.13.2",
   "author": "Nicklas Ansman <nicklas@ansman.se>",
   "description": "Declarative validations for JavaScript",
   "main": "validate.js",
@@ -8,7 +8,7 @@
   "homepage": "http://validatejs.org",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ansman/validate.js.git"
+    "url": "https://github.com/miqdadfwz/validate.js.git"
   },
   "files": [
     "typings.json",
